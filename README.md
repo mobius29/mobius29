@@ -10,18 +10,22 @@
 
 <h4>🌱 Currently Learning</h2>
 
-- Languages: JavaScript/TypeScript, C++, Rust
+- Languages: JavaScript/TypeScript, C++, Kotlin, Rust
+
+- Frameworks: Next.js, Nest.js
+
+- Topics: Programming Langauge and Compiler, Domain Specific Language
 
 <br />
 
-<h2>📞 Contact</h2>
+<h4>📞 Contact</h2>
 <p>
   <a href="https://www.instagram.com/sj_ly00/" target="_blank"><img src="https://img.shields.io/badge/insta-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
   <a href="mailto:sagjin0000@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
   <a href="https://blog.naver.com/sagjin0000" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> 
 </p>
 
-<h2>📖 Languages </h2>
+<h4>📖 Languages </h2>
 <p>
   <img src="httpshttps://www.todomate.net/#/://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -32,7 +36,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </p>
 
-<h2>🔨 Tools</h2>
+<h4>🔨 Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
