@@ -16,7 +16,7 @@
 
 - Topics: Programming Langauge
 
-<h4>🤔 Currently Interesting</h4>
+<h4>🤔 Currently Exploring</h4>
 
 - Rust, Compiler, Domain Specific Language
 
