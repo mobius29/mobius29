@@ -2,19 +2,23 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sagjin0000)](https://solved.ac/sagjin0000)
 
-<h4>🔭 Currently Working</h2>
+<h4>🔭 Currently Working</h4>
 
 - <a href="https://info.korea.ac.kr/info/index.do" target="_blank">Computer Scient & Engineering</a> @ Korea.Univ (2019.03 ~ )
 
 - Frontend Developer @ <a href="https://fanmaum.com/event" target="_blank">Fanmaum</a> (2023.01 ~ )
 
-<h4>🌱 Currently Learning</h2>
+<h4>🌱 Currently Learning</h4>
 
-- Languages: JavaScript/TypeScript, C++, Kotlin, Rust
+- Languages: JavaScript/TypeScript, C++, Kotlin
 
 - Frameworks: Next.js, Nest.js
 
-- Topics: Programming Langauge and Compiler, Domain Specific Language
+- Topics: Programming Langauge
+
+<h4>🤔 Currently Interesting</h4>
+
+- Rust, Compiler, Domain Specific Language
 
 <br />
 
