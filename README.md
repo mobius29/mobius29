@@ -8,7 +8,7 @@
 
 - <a href="https://info.korea.ac.kr/info/index.do" target="_blank">Computer Scient & Engineering</a> @ Korea.Univ (2019.03 ~ )
 
-- Frontend Developer @ <a href="https://fanmaum.com/event" target="_blank">Fanmaum</a> (2023.01 ~ )
+- Frontend Developer @ <a href="https://fanmaum.com/event" target="_blank">Fanmaum</a> (2023.01 ~ 2025.04)
 
 <h4>🌱 Currently Learning</h4>
 
