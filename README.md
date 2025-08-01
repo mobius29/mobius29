@@ -24,13 +24,6 @@
 
 <br />
 
-<h4>📞 Contact</h2>
-<p>
-  <a href="https://www.instagram.com/sj_ly00/" target="_blank"><img src="https://img.shields.io/badge/insta-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
-  <a href="mailto:sagjin0000@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
-  <a href="https://blog.naver.com/sagjin0000" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> 
-</p>
-
 <h4>📖 Languages </h2>
 <p>
   <img src="httpshttps://www.todomate.net/#/://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -56,7 +49,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/psql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
 </p>
 
 <!--
