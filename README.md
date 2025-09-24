@@ -4,11 +4,15 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sagjin0000)](https://solved.ac/sagjin0000)
 
-<h4>🔭 Currently Working</h4>
+<h4>📚 Education</h4>
 
-- <a href="https://info.korea.ac.kr/info/index.do" target="_blank">Computer Scient & Engineering</a> @ Korea.Univ (2019.03 ~ )
+- Computer Scient & Engineering @ [Korea.Univ](https://info.korea.ac.kr/info/index.do) (2019.03 - )
 
-- Frontend Developer @ <a href="https://fanmaum.com/event" target="_blank">Fanmaum</a> (2023.01 ~ 2025.04)
+<h4>🔭 Working</h4>
+
+- Frontend Developer @ [Fanmaum](https://fanmaum.com/) (2023.01 - 2025.04)
+
+- Undergraduate Research Student @ [KU-PLRG](https://plrg.korea.ac.kr/) (2025.07 - )
 
 <h4>🌱 Currently Learning</h4>
 
@@ -16,7 +20,7 @@
 
 - Frameworks: Next.js, Nest.js
 
-- Topics: Programming Langauge
+- Topics: Programming Langauge, Dynamic Analysis
 
 <h4>🤔 Currently Exploring</h4>
 
