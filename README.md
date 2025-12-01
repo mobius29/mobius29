@@ -12,7 +12,7 @@
 
 - Frontend Developer @ [Fanmaum](https://fanmaum.com/) (2023.01 - 2025.04)
 
-- Undergraduate Research Student @ [KU-PLRG](https://plrg.korea.ac.kr/) (2025.07 - )
+- Undergraduate Research Student @ [KU-PLRG](https://plrg.korea.ac.kr/) (2025.07 - 2025.10)
 
 <h4>🌱 Currently Learning</h4>
 
